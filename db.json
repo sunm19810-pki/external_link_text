@@ -34,7 +34,7 @@
       "userId": 1,
       "name": "test1",
       "link": {
-        "alias": 'alias1',
+        "alias": "alias1",
         "url": "https://www.google.com/"
       }
     },
@@ -43,7 +43,7 @@
       "userId": 2,
       "name": "test2",
       "link": {
-        "alias": 'alias2',
+        "alias": "alias2",
         "url": "https://www.google.com/"
       }
     },
@@ -52,7 +52,7 @@
       "userId": 3,
       "name": "test3",
       "link": {
-        "alias": 'alias3',
+        "alias": "alias3",
         "url": "https://www.google.com/"
       }
     }
